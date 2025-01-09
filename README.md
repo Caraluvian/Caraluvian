@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Caraluvian/Caraluvian/refs/heads/main/img/page-header-medium-up-2x.webp" style="width:700px; height: 250px;">
-</p>
-
-<p align="center">
   <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/squid.gif" width="100" height="100">
   <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/inkling.gif" width="500" height = "250" >
   <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/pink_squid.gif" width="100" height="100">
@@ -14,3 +10,5 @@
     <img src="https://raw.githubusercontent.com/Caraluvian/Caraluvian/refs/heads/output/github-contribution-grid-snake.svg" alt="Image for Light Theme">
   </picture>
 </p>
+
+![](https://raw.githubusercontent.com/Caraluvian/Caraluvian/refs/heads/main/img/page-header-medium-up-2x.webp)
