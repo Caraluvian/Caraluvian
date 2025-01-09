@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Caraluvian/Caraluvian/refs/heads/main/img/page-header-medium-up-2x.webp)
+
 <p align="center">
   <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/squid.gif" width="100" height="100">
   <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/inkling.gif" width="500" height = "250" >
