@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/squid.gif" width="100" height="100">
-  <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/inkling.gif" width="400" height = "300" >
+  <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/inkling.gif" width="500" height = "200" >
   <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/pink_squid.gif" width="100" height="100">
 </p>
 
