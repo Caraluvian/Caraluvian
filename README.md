@@ -4,8 +4,6 @@
   <img src="https://github.com/Caraluvian/Caraluvian/blob/main/img/pink_squid.gif" width="100" height="100">
 </p>
 
-![](https://raw.githubusercontent.com/Caraluvian/Caraluvian/refs/heads/main/img/page-header-medium-up-2x.webp)
-
 <p align="center">
   <picture>
     <source srcset="https://raw.githubusercontent.com/Caraluvian/Caraluvian/refs/heads/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
